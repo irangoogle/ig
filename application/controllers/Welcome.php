@@ -25,5 +25,6 @@ class Welcome extends CI_Controller {
 //test comment
 
 //commit by branch sama
+echo "ahmad";
 }
 }
